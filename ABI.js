@@ -1,1 +1,316 @@
-function a0_0x50e7(_0x4e9170,_0x39356d){var _0x57bc14=a0_0x57bc();return a0_0x50e7=function(_0x50e76e,_0x38d47c){_0x50e76e=_0x50e76e-0x18b;var _0x530923=_0x57bc14[_0x50e76e];return _0x530923;},a0_0x50e7(_0x4e9170,_0x39356d);}var a0_0x15c2fc=a0_0x50e7;function a0_0x57bc(){var _0x19658e=['spender','increaseAllowance','supportsInterface','TransferBatch','Approval','gimmeSome','ApprovalForAll','allowance','bytes4','uint256[]','balanceOfBatch','function','isApprovedForAll','amounts','name','transfer','sender','address[]','transferOwnership','transferFrom','safeTransferFrom','value','approve','address','mint','data','totalSupply','getApproved','40LaMBGv','balanceOf','5124614rzlxqV','account','bytes','651564PlFzgW','1253235MOJxFH','previousOwner','12479562CxrWvU','37371060JTcBFq','15181792cZSEFk','symbol','30Nkexlc','interfaceId','from','ownerOf','uint256','decreaseAllowance','accounts','ids','operator','view','constructor','tokenId','string','setApprovalForAll','Transfer','52FzgqhE','newOwner','4FTulcv','403566fwZpRT','nonpayable','owner','TransferSingle','OwnershipTransferred','safeBatchTransferFrom','event','uint8','approved','bool','amount','recipient','subtractedValue','7uKiIVw'];a0_0x57bc=function(){return _0x19658e;};return a0_0x57bc();}(function(_0x31680e,_0x45f742){var _0x20b047=a0_0x50e7,_0x3eeaed=_0x31680e();while(!![]){try{var _0x378384=-parseInt(_0x20b047(0x1af))/0x1*(parseInt(_0x20b047(0x197))/0x2)+-parseInt(_0x20b047(0x1b0))/0x3*(-parseInt(_0x20b047(0x1ad))/0x4)+parseInt(_0x20b047(0x198))/0x5*(-parseInt(_0x20b047(0x19e))/0x6)+-parseInt(_0x20b047(0x1bd))/0x7*(-parseInt(_0x20b047(0x19c))/0x8)+-parseInt(_0x20b047(0x19a))/0x9+-parseInt(_0x20b047(0x192))/0xa*(parseInt(_0x20b047(0x194))/0xb)+parseInt(_0x20b047(0x19b))/0xc;if(_0x378384===_0x45f742)break;else _0x3eeaed['push'](_0x3eeaed['shift']());}catch(_0x55332e){_0x3eeaed['push'](_0x3eeaed['shift']());}}}(a0_0x57bc,0xe8fb0));var ERC20_ABI=[{'inputs':[],'stateMutability':a0_0x15c2fc(0x1b1),'type':a0_0x15c2fc(0x1a8)},{'anonymous':![],'inputs':[{'indexed':!![],'internalType':'address','name':'owner','type':a0_0x15c2fc(0x18d)},{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':'spender','type':a0_0x15c2fc(0x18d)},{'indexed':![],'internalType':'uint256','name':a0_0x15c2fc(0x18b),'type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x1c2),'type':a0_0x15c2fc(0x1b6)},{'anonymous':![],'inputs':[{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x199),'type':a0_0x15c2fc(0x18d)},{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1ae),'type':a0_0x15c2fc(0x18d)}],'name':a0_0x15c2fc(0x1b4),'type':a0_0x15c2fc(0x1b6)},{'anonymous':![],'inputs':[{'indexed':!![],'internalType':'address','name':a0_0x15c2fc(0x1a0),'type':a0_0x15c2fc(0x18d)},{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':'to','type':'address'},{'indexed':![],'internalType':a0_0x15c2fc(0x1a2),'name':a0_0x15c2fc(0x18b),'type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x1ac),'type':a0_0x15c2fc(0x1b6)},{'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':'owner','type':a0_0x15c2fc(0x18d)},{'internalType':'address','name':a0_0x15c2fc(0x1be),'type':a0_0x15c2fc(0x18d)}],'name':a0_0x15c2fc(0x1c5),'outputs':[{'internalType':'uint256','name':'','type':a0_0x15c2fc(0x1a2)}],'stateMutability':'view','type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1be),'type':'address'},{'internalType':'uint256','name':'amount','type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x18c),'outputs':[{'internalType':'bool','name':'','type':a0_0x15c2fc(0x1b9)}],'stateMutability':a0_0x15c2fc(0x1b1),'type':'function'},{'inputs':[{'internalType':'address','name':a0_0x15c2fc(0x195),'type':a0_0x15c2fc(0x18d)}],'name':a0_0x15c2fc(0x193),'outputs':[{'internalType':a0_0x15c2fc(0x1a2),'name':'','type':a0_0x15c2fc(0x1a2)}],'stateMutability':a0_0x15c2fc(0x1a7),'type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x195),'type':a0_0x15c2fc(0x18d)},{'internalType':a0_0x15c2fc(0x1a2),'name':a0_0x15c2fc(0x1ba),'type':a0_0x15c2fc(0x1a2)}],'name':'burn','outputs':[],'stateMutability':a0_0x15c2fc(0x1b1),'type':a0_0x15c2fc(0x1c9)},{'inputs':[],'name':'decimals','outputs':[{'internalType':'uint8','name':'','type':a0_0x15c2fc(0x1b7)}],'stateMutability':'view','type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1be),'type':a0_0x15c2fc(0x18d)},{'internalType':'uint256','name':a0_0x15c2fc(0x1bc),'type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x1a3),'outputs':[{'internalType':a0_0x15c2fc(0x1b9),'name':'','type':a0_0x15c2fc(0x1b9)}],'stateMutability':'nonpayable','type':a0_0x15c2fc(0x1c9)},{'inputs':[],'name':a0_0x15c2fc(0x1c3),'outputs':[],'stateMutability':a0_0x15c2fc(0x1b1),'type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1be),'type':a0_0x15c2fc(0x18d)},{'internalType':a0_0x15c2fc(0x1a2),'name':'addedValue','type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x1bf),'outputs':[{'internalType':a0_0x15c2fc(0x1b9),'name':'','type':a0_0x15c2fc(0x1b9)}],'stateMutability':a0_0x15c2fc(0x1b1),'type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x195),'type':a0_0x15c2fc(0x18d)},{'internalType':'uint256','name':a0_0x15c2fc(0x1ba),'type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x18e),'outputs':[],'stateMutability':a0_0x15c2fc(0x1b1),'type':a0_0x15c2fc(0x1c9)},{'inputs':[],'name':a0_0x15c2fc(0x1cc),'outputs':[{'internalType':a0_0x15c2fc(0x1aa),'name':'','type':a0_0x15c2fc(0x1aa)}],'stateMutability':a0_0x15c2fc(0x1a7),'type':a0_0x15c2fc(0x1c9)},{'inputs':[],'name':a0_0x15c2fc(0x1b2),'outputs':[{'internalType':a0_0x15c2fc(0x18d),'name':'','type':a0_0x15c2fc(0x18d)}],'stateMutability':a0_0x15c2fc(0x1a7),'type':a0_0x15c2fc(0x1c9)},{'inputs':[],'name':'renounceOwnership','outputs':[],'stateMutability':'nonpayable','type':a0_0x15c2fc(0x1c9)},{'inputs':[],'name':a0_0x15c2fc(0x19d),'outputs':[{'internalType':a0_0x15c2fc(0x1aa),'name':'','type':a0_0x15c2fc(0x1aa)}],'stateMutability':'view','type':a0_0x15c2fc(0x1c9)},{'inputs':[],'name':a0_0x15c2fc(0x190),'outputs':[{'internalType':a0_0x15c2fc(0x1a2),'name':'','type':a0_0x15c2fc(0x1a2)}],'stateMutability':'view','type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':'address','name':a0_0x15c2fc(0x1bb),'type':a0_0x15c2fc(0x18d)},{'internalType':a0_0x15c2fc(0x1a2),'name':a0_0x15c2fc(0x1ba),'type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x1cd),'outputs':[{'internalType':a0_0x15c2fc(0x1b9),'name':'','type':a0_0x15c2fc(0x1b9)}],'stateMutability':a0_0x15c2fc(0x1b1),'type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1ce),'type':a0_0x15c2fc(0x18d)},{'internalType':'address','name':a0_0x15c2fc(0x1bb),'type':'address'},{'internalType':'uint256','name':a0_0x15c2fc(0x1ba),'type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x1d1),'outputs':[{'internalType':'bool','name':'','type':a0_0x15c2fc(0x1b9)}],'stateMutability':'nonpayable','type':'function'},{'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1ae),'type':a0_0x15c2fc(0x18d)}],'name':a0_0x15c2fc(0x1d0),'outputs':[],'stateMutability':a0_0x15c2fc(0x1b1),'type':a0_0x15c2fc(0x1c9)}],ERC1155_ABI=[{'anonymous':![],'inputs':[{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x195),'type':a0_0x15c2fc(0x18d)},{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1a6),'type':a0_0x15c2fc(0x18d)},{'indexed':![],'internalType':a0_0x15c2fc(0x1b9),'name':a0_0x15c2fc(0x1b8),'type':'bool'}],'name':a0_0x15c2fc(0x1c4),'type':a0_0x15c2fc(0x1b6)},{'anonymous':![],'inputs':[{'indexed':!![],'internalType':'address','name':a0_0x15c2fc(0x1a6),'type':a0_0x15c2fc(0x18d)},{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':'from','type':a0_0x15c2fc(0x18d)},{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':'to','type':a0_0x15c2fc(0x18d)},{'indexed':![],'internalType':a0_0x15c2fc(0x1c7),'name':a0_0x15c2fc(0x1a5),'type':a0_0x15c2fc(0x1c7)},{'indexed':![],'internalType':a0_0x15c2fc(0x1c7),'name':'values','type':'uint256[]'}],'name':a0_0x15c2fc(0x1c1),'type':a0_0x15c2fc(0x1b6)},{'anonymous':![],'inputs':[{'indexed':!![],'internalType':'address','name':a0_0x15c2fc(0x1a6),'type':a0_0x15c2fc(0x18d)},{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1a0),'type':'address'},{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':'to','type':'address'},{'indexed':![],'internalType':'uint256','name':'id','type':a0_0x15c2fc(0x1a2)},{'indexed':![],'internalType':a0_0x15c2fc(0x1a2),'name':a0_0x15c2fc(0x18b),'type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x1b3),'type':a0_0x15c2fc(0x1b6)},{'anonymous':![],'inputs':[{'indexed':![],'internalType':a0_0x15c2fc(0x1aa),'name':a0_0x15c2fc(0x18b),'type':a0_0x15c2fc(0x1aa)},{'indexed':!![],'internalType':a0_0x15c2fc(0x1a2),'name':'id','type':'uint256'}],'name':'URI','type':a0_0x15c2fc(0x1b6)},{'inputs':[{'internalType':'address','name':a0_0x15c2fc(0x195),'type':'address'},{'internalType':'uint256','name':'id','type':'uint256'}],'name':a0_0x15c2fc(0x193),'outputs':[{'internalType':a0_0x15c2fc(0x1a2),'name':'','type':'uint256'}],'stateMutability':a0_0x15c2fc(0x1a7),'type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':'address[]','name':a0_0x15c2fc(0x1a4),'type':a0_0x15c2fc(0x1cf)},{'internalType':a0_0x15c2fc(0x1c7),'name':a0_0x15c2fc(0x1a5),'type':a0_0x15c2fc(0x1c7)}],'name':a0_0x15c2fc(0x1c8),'outputs':[{'internalType':a0_0x15c2fc(0x1c7),'name':'','type':a0_0x15c2fc(0x1c7)}],'stateMutability':a0_0x15c2fc(0x1a7),'type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x195),'type':a0_0x15c2fc(0x18d)},{'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1a6),'type':'address'}],'name':a0_0x15c2fc(0x1ca),'outputs':[{'internalType':a0_0x15c2fc(0x1b9),'name':'','type':a0_0x15c2fc(0x1b9)}],'stateMutability':a0_0x15c2fc(0x1a7),'type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1a0),'type':a0_0x15c2fc(0x18d)},{'internalType':'address','name':'to','type':'address'},{'internalType':'uint256[]','name':a0_0x15c2fc(0x1a5),'type':a0_0x15c2fc(0x1c7)},{'internalType':a0_0x15c2fc(0x1c7),'name':a0_0x15c2fc(0x1cb),'type':a0_0x15c2fc(0x1c7)},{'internalType':a0_0x15c2fc(0x196),'name':a0_0x15c2fc(0x18f),'type':a0_0x15c2fc(0x196)}],'name':a0_0x15c2fc(0x1b5),'outputs':[],'stateMutability':a0_0x15c2fc(0x1b1),'type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':'address','name':a0_0x15c2fc(0x1a0),'type':'address'},{'internalType':a0_0x15c2fc(0x18d),'name':'to','type':a0_0x15c2fc(0x18d)},{'internalType':a0_0x15c2fc(0x1a2),'name':'id','type':a0_0x15c2fc(0x1a2)},{'internalType':'uint256','name':a0_0x15c2fc(0x1ba),'type':a0_0x15c2fc(0x1a2)},{'internalType':a0_0x15c2fc(0x196),'name':a0_0x15c2fc(0x18f),'type':a0_0x15c2fc(0x196)}],'name':'safeTransferFrom','outputs':[],'stateMutability':'nonpayable','type':'function'},{'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':'operator','type':a0_0x15c2fc(0x18d)},{'internalType':a0_0x15c2fc(0x1b9),'name':a0_0x15c2fc(0x1b8),'type':a0_0x15c2fc(0x1b9)}],'name':'setApprovalForAll','outputs':[],'stateMutability':a0_0x15c2fc(0x1b1),'type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':a0_0x15c2fc(0x1c6),'name':a0_0x15c2fc(0x19f),'type':a0_0x15c2fc(0x1c6)}],'name':a0_0x15c2fc(0x1c0),'outputs':[{'internalType':a0_0x15c2fc(0x1b9),'name':'','type':'bool'}],'stateMutability':a0_0x15c2fc(0x1a7),'type':a0_0x15c2fc(0x1c9)},{'inputs':[{'internalType':'uint256','name':'id','type':a0_0x15c2fc(0x1a2)}],'name':'uri','outputs':[{'internalType':a0_0x15c2fc(0x1aa),'name':'','type':a0_0x15c2fc(0x1aa)}],'stateMutability':a0_0x15c2fc(0x1a7),'type':a0_0x15c2fc(0x1c9)}],ERC721_ABI=[{'constant':![],'inputs':[{'internalType':'address','name':'to','type':a0_0x15c2fc(0x18d)},{'internalType':a0_0x15c2fc(0x1a2),'name':a0_0x15c2fc(0x1a9),'type':'uint256'}],'name':a0_0x15c2fc(0x18c),'outputs':[],'payable':![],'stateMutability':a0_0x15c2fc(0x1b1),'type':'function'},{'constant':![],'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':'to','type':a0_0x15c2fc(0x18d)},{'internalType':'uint256','name':'tokenId','type':'uint256'}],'name':a0_0x15c2fc(0x18e),'outputs':[],'payable':![],'stateMutability':'nonpayable','type':a0_0x15c2fc(0x1c9)},{'constant':![],'inputs':[{'internalType':'address','name':a0_0x15c2fc(0x1a0),'type':a0_0x15c2fc(0x18d)},{'internalType':a0_0x15c2fc(0x18d),'name':'to','type':a0_0x15c2fc(0x18d)},{'internalType':a0_0x15c2fc(0x1a2),'name':a0_0x15c2fc(0x1a9),'type':a0_0x15c2fc(0x1a2)}],'name':'safeTransferFrom','outputs':[],'payable':![],'stateMutability':a0_0x15c2fc(0x1b1),'type':'function'},{'constant':![],'inputs':[{'internalType':'address','name':a0_0x15c2fc(0x1a0),'type':a0_0x15c2fc(0x18d)},{'internalType':a0_0x15c2fc(0x18d),'name':'to','type':a0_0x15c2fc(0x18d)},{'internalType':'uint256','name':'tokenId','type':a0_0x15c2fc(0x1a2)},{'internalType':a0_0x15c2fc(0x196),'name':'_data','type':a0_0x15c2fc(0x196)}],'name':a0_0x15c2fc(0x1d2),'outputs':[],'payable':![],'stateMutability':'nonpayable','type':a0_0x15c2fc(0x1c9)},{'constant':![],'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':'to','type':a0_0x15c2fc(0x18d)},{'internalType':'bool','name':a0_0x15c2fc(0x1b8),'type':a0_0x15c2fc(0x1b9)}],'name':a0_0x15c2fc(0x1ab),'outputs':[],'payable':![],'stateMutability':'nonpayable','type':a0_0x15c2fc(0x1c9)},{'constant':![],'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':'from','type':a0_0x15c2fc(0x18d)},{'internalType':'address','name':'to','type':a0_0x15c2fc(0x18d)},{'internalType':a0_0x15c2fc(0x1a2),'name':a0_0x15c2fc(0x1a9),'type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x1d1),'outputs':[],'payable':![],'stateMutability':'nonpayable','type':a0_0x15c2fc(0x1c9)},{'inputs':[],'payable':![],'stateMutability':a0_0x15c2fc(0x1b1),'type':'constructor'},{'anonymous':![],'inputs':[{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1a0),'type':a0_0x15c2fc(0x18d)},{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':'to','type':a0_0x15c2fc(0x18d)},{'indexed':!![],'internalType':a0_0x15c2fc(0x1a2),'name':'tokenId','type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x1ac),'type':a0_0x15c2fc(0x1b6)},{'anonymous':![],'inputs':[{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1b2),'type':a0_0x15c2fc(0x18d)},{'indexed':!![],'internalType':a0_0x15c2fc(0x18d),'name':'approved','type':'address'},{'indexed':!![],'internalType':a0_0x15c2fc(0x1a2),'name':a0_0x15c2fc(0x1a9),'type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x1c2),'type':a0_0x15c2fc(0x1b6)},{'anonymous':![],'inputs':[{'indexed':!![],'internalType':'address','name':a0_0x15c2fc(0x1b2),'type':a0_0x15c2fc(0x18d)},{'indexed':!![],'internalType':'address','name':'operator','type':a0_0x15c2fc(0x18d)},{'indexed':![],'internalType':a0_0x15c2fc(0x1b9),'name':a0_0x15c2fc(0x1b8),'type':'bool'}],'name':a0_0x15c2fc(0x1c4),'type':'event'},{'constant':!![],'inputs':[{'internalType':'address','name':a0_0x15c2fc(0x1b2),'type':a0_0x15c2fc(0x18d)}],'name':'balanceOf','outputs':[{'internalType':a0_0x15c2fc(0x1a2),'name':'','type':a0_0x15c2fc(0x1a2)}],'payable':![],'stateMutability':a0_0x15c2fc(0x1a7),'type':'function'},{'constant':!![],'inputs':[{'internalType':'uint256','name':a0_0x15c2fc(0x1a9),'type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x191),'outputs':[{'internalType':a0_0x15c2fc(0x18d),'name':'','type':a0_0x15c2fc(0x18d)}],'payable':![],'stateMutability':a0_0x15c2fc(0x1a7),'type':a0_0x15c2fc(0x1c9)},{'constant':!![],'inputs':[{'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1b2),'type':a0_0x15c2fc(0x18d)},{'internalType':a0_0x15c2fc(0x18d),'name':a0_0x15c2fc(0x1a6),'type':a0_0x15c2fc(0x18d)}],'name':a0_0x15c2fc(0x1ca),'outputs':[{'internalType':a0_0x15c2fc(0x1b9),'name':'','type':a0_0x15c2fc(0x1b9)}],'payable':![],'stateMutability':a0_0x15c2fc(0x1a7),'type':a0_0x15c2fc(0x1c9)},{'constant':!![],'inputs':[{'internalType':a0_0x15c2fc(0x1a2),'name':a0_0x15c2fc(0x1a9),'type':a0_0x15c2fc(0x1a2)}],'name':a0_0x15c2fc(0x1a1),'outputs':[{'internalType':'address','name':'','type':a0_0x15c2fc(0x18d)}],'payable':![],'stateMutability':a0_0x15c2fc(0x1a7),'type':a0_0x15c2fc(0x1c9)},{'constant':!![],'inputs':[{'internalType':a0_0x15c2fc(0x1c6),'name':a0_0x15c2fc(0x19f),'type':a0_0x15c2fc(0x1c6)}],'name':a0_0x15c2fc(0x1c0),'outputs':[{'internalType':a0_0x15c2fc(0x1b9),'name':'','type':a0_0x15c2fc(0x1b9)}],'payable':![],'stateMutability':a0_0x15c2fc(0x1a7),'type':a0_0x15c2fc(0x1c9)}];
+var ERC20_ABI = [{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"owner","type":"address"},{"indexed":true,"internalType":"address","name":"spender","type":"address"},{"indexed":false,"internalType":"uint256","name":"value","type":"uint256"}],"name":"Approval","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"previousOwner","type":"address"},{"indexed":true,"internalType":"address","name":"newOwner","type":"address"}],"name":"OwnershipTransferred","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"from","type":"address"},{"indexed":true,"internalType":"address","name":"to","type":"address"},{"indexed":false,"internalType":"uint256","name":"value","type":"uint256"}],"name":"Transfer","type":"event"},{"inputs":[{"internalType":"address","name":"owner","type":"address"},{"internalType":"address","name":"spender","type":"address"}],"name":"allowance","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"approve","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"balanceOf","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"burn","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"decimals","outputs":[{"internalType":"uint8","name":"","type":"uint8"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"subtractedValue","type":"uint256"}],"name":"decreaseAllowance","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"gimmeSome","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"addedValue","type":"uint256"}],"name":"increaseAllowance","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"mint","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"name","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"renounceOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"symbol","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"totalSupply","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"recipient","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"transfer","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"sender","type":"address"},{"internalType":"address","name":"recipient","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"transferFrom","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"newOwner","type":"address"}],"name":"transferOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"}];
+var ERC1155_ABI = [
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "account",
+				"type": "address"
+			},
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "operator",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"internalType": "bool",
+				"name": "approved",
+				"type": "bool"
+			}
+		],
+		"name": "ApprovalForAll",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "operator",
+				"type": "address"
+			},
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "from",
+				"type": "address"
+			},
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "to",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"internalType": "uint256[]",
+				"name": "ids",
+				"type": "uint256[]"
+			},
+			{
+				"indexed": false,
+				"internalType": "uint256[]",
+				"name": "values",
+				"type": "uint256[]"
+			}
+		],
+		"name": "TransferBatch",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "operator",
+				"type": "address"
+			},
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "from",
+				"type": "address"
+			},
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "to",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"internalType": "uint256",
+				"name": "id",
+				"type": "uint256"
+			},
+			{
+				"indexed": false,
+				"internalType": "uint256",
+				"name": "value",
+				"type": "uint256"
+			}
+		],
+		"name": "TransferSingle",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": false,
+				"internalType": "string",
+				"name": "value",
+				"type": "string"
+			},
+			{
+				"indexed": true,
+				"internalType": "uint256",
+				"name": "id",
+				"type": "uint256"
+			}
+		],
+		"name": "URI",
+		"type": "event"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "account",
+				"type": "address"
+			},
+			{
+				"internalType": "uint256",
+				"name": "id",
+				"type": "uint256"
+			}
+		],
+		"name": "balanceOf",
+		"outputs": [
+			{
+				"internalType": "uint256",
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address[]",
+				"name": "accounts",
+				"type": "address[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "ids",
+				"type": "uint256[]"
+			}
+		],
+		"name": "balanceOfBatch",
+		"outputs": [
+			{
+				"internalType": "uint256[]",
+				"name": "",
+				"type": "uint256[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "account",
+				"type": "address"
+			},
+			{
+				"internalType": "address",
+				"name": "operator",
+				"type": "address"
+			}
+		],
+		"name": "isApprovedForAll",
+		"outputs": [
+			{
+				"internalType": "bool",
+				"name": "",
+				"type": "bool"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "from",
+				"type": "address"
+			},
+			{
+				"internalType": "address",
+				"name": "to",
+				"type": "address"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "ids",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "amounts",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "bytes",
+				"name": "data",
+				"type": "bytes"
+			}
+		],
+		"name": "safeBatchTransferFrom",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "from",
+				"type": "address"
+			},
+			{
+				"internalType": "address",
+				"name": "to",
+				"type": "address"
+			},
+			{
+				"internalType": "uint256",
+				"name": "id",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "amount",
+				"type": "uint256"
+			},
+			{
+				"internalType": "bytes",
+				"name": "data",
+				"type": "bytes"
+			}
+		],
+		"name": "safeTransferFrom",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "operator",
+				"type": "address"
+			},
+			{
+				"internalType": "bool",
+				"name": "approved",
+				"type": "bool"
+			}
+		],
+		"name": "setApprovalForAll",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "bytes4",
+				"name": "interfaceId",
+				"type": "bytes4"
+			}
+		],
+		"name": "supportsInterface",
+		"outputs": [
+			{
+				"internalType": "bool",
+				"name": "",
+				"type": "bool"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "id",
+				"type": "uint256"
+			}
+		],
+		"name": "uri",
+		"outputs": [
+			{
+				"internalType": "string",
+				"name": "",
+				"type": "string"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	}
+];
+var ERC721_ABI = [{"constant":false,"inputs":[{"internalType":"address","name":"to","type":"address"},{"internalType":"uint256","name":"tokenId","type":"uint256"}],"name":"approve","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"to","type":"address"},{"internalType":"uint256","name":"tokenId","type":"uint256"}],"name":"mint","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"from","type":"address"},{"internalType":"address","name":"to","type":"address"},{"internalType":"uint256","name":"tokenId","type":"uint256"}],"name":"safeTransferFrom","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"from","type":"address"},{"internalType":"address","name":"to","type":"address"},{"internalType":"uint256","name":"tokenId","type":"uint256"},{"internalType":"bytes","name":"_data","type":"bytes"}],"name":"safeTransferFrom","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"to","type":"address"},{"internalType":"bool","name":"approved","type":"bool"}],"name":"setApprovalForAll","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"from","type":"address"},{"internalType":"address","name":"to","type":"address"},{"internalType":"uint256","name":"tokenId","type":"uint256"}],"name":"transferFrom","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"inputs":[],"payable":false,"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"from","type":"address"},{"indexed":true,"internalType":"address","name":"to","type":"address"},{"indexed":true,"internalType":"uint256","name":"tokenId","type":"uint256"}],"name":"Transfer","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"owner","type":"address"},{"indexed":true,"internalType":"address","name":"approved","type":"address"},{"indexed":true,"internalType":"uint256","name":"tokenId","type":"uint256"}],"name":"Approval","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"owner","type":"address"},{"indexed":true,"internalType":"address","name":"operator","type":"address"},{"indexed":false,"internalType":"bool","name":"approved","type":"bool"}],"name":"ApprovalForAll","type":"event"},{"constant":true,"inputs":[{"internalType":"address","name":"owner","type":"address"}],"name":"balanceOf","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[{"internalType":"uint256","name":"tokenId","type":"uint256"}],"name":"getApproved","outputs":[{"internalType":"address","name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[{"internalType":"address","name":"owner","type":"address"},{"internalType":"address","name":"operator","type":"address"}],"name":"isApprovedForAll","outputs":[{"internalType":"bool","name":"","type":"bool"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[{"internalType":"uint256","name":"tokenId","type":"uint256"}],"name":"ownerOf","outputs":[{"internalType":"address","name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[{"internalType":"bytes4","name":"interfaceId","type":"bytes4"}],"name":"supportsInterface","outputs":[{"internalType":"bool","name":"","type":"bool"}],"payable":false,"stateMutability":"view","type":"function"}];
